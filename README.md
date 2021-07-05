@@ -12,3 +12,9 @@ og svo:
 
 #cd mappa
 #go build
+
+Þegar þetta er keyrt í *Nix:
+time ./goSocialIds
+
+Í windows ræsið upp Powershell og keyrið þetta með:
+measure-Command {.\goSocialIds.exe}
