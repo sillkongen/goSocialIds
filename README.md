@@ -2,7 +2,7 @@
 Social id numbers in Go
 
 
-Fyrir Windows skal bæta við áður en þetta þýðist upp:
+Fyrir Windows skal bæta við áður en þetta þýðist upp: (Powershell skel)
 $ENV:GO111MODULE="auto"
 
 
