@@ -36,7 +36,7 @@ TotalMilliseconds : 1773.0615
 ##
 
 ## M1 Pro ##
-0.8.03 seconds   / 14/9/2023
+0.803 seconds   / 14/9/2023
 
 
 ## 11700 Desktop CPU ##
