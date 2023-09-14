@@ -1,6 +1,3 @@
-## Acer Predator Helios / Overclocked Fans on full blast (Harrier Jet noise level)
-
-
 ## Apple M1
 1.14 seconds
 
